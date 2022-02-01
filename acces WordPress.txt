@@ -1,5 +1,0 @@
-acces : https://dpfqeis.cluster031.hosting.ovh.net/wp-login.php?redirect_to=https%3A%2F%2Fdpfqeis.cluster031.hosting.ovh.net%2Fwp-admin%2F&reauth=1
-
-user : admin9851
-
-pass : 9Aam545K8CyT
